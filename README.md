@@ -22,8 +22,8 @@ The player selects a difficulty level and tries to guess a randomly generated nu
 
 ---
 
-## ▶️ How to Run the Game
-
 1. Make sure Python is installed:
-   ```bash
-  python number-guessing-game.py
+```bash
+python --version
+
+
